@@ -13,11 +13,14 @@ const NavItems = ({ feedlink, comlink, asklink, dashlink }) => {
         <Link href={{ comlink }}>Community</Link>
       </li>
       <li className={commonStyles}>
-        <Link href={{ asklink }}>Ask</Link>
+        <Link href="https://www.reddit.com/r/Psychiatry/">Ask</Link>
       </li>
       <li className={commonStyles}>
-        <Link href={{ dashlink }}>Dashboard</Link>
-      </li>
+  <Link href="http://localhost:3000/patients/67a661410015cf19e720/new-appointment">
+    New Appointement
+  </Link>
+</li>
+
     </ul>
   );
 };
