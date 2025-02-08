@@ -18,10 +18,10 @@
 
 ## <a name="introduction">🤖 Introduction</a>
 
-Healthcare Forum & Community
-🗣️ Engage in Health Discussions – Patients can join forums to discuss medical topics, wellness tips, and personal health experiences.
-🧘 Guided Meditation & Well-being – Users can access guided meditation sessions for stress relief and mindfulness.
-🤝 Community Support – A space for individuals to share insights, seek advice, and connect with others on their health journey.
+Healthcare Forum & Community<br>
+🗣️ Engage in Health Discussions – Patients can join forums to discuss medical topics, wellness tips, and personal health experiences.<br>
+🧘 Guided Meditation & Well-being – Users can access guided meditation sessions for stress relief and mindfulness.<br>
+🤝 Community Support – A space for individuals to share insights, seek advice, and connect with others on their health journey.<br>
 
 ## <a name="quick-start">🤸 Quick Start</a>
 
